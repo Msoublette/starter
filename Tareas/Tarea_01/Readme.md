@@ -16,6 +16,4 @@ _**La Moda Sustentable**_
 
 
 
-
-
 #### Magdalena Soublette R. 
