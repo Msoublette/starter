@@ -6,7 +6,7 @@
 ## **Diseño de recolección**
 ### Los datos los fui recopilando en notas de mi celular, anotando la hora en la cual me iba a dormir y en la cual me despertaba. 
 
-## **Explicación Variables **
+## **Explicación Variables**
 ### Además de la hora en la que me duermo, en la que despierto y el total de lo que dormí cada día, decidí agregar 4 variables: 
 ### - _¿Puse Alarma?_
 ### - _¿Me quede estudiando/ trabajando?_ 
